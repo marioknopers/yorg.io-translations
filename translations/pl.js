@@ -92,24 +92,24 @@ export const TRANSLATIONS_PL = {
 
     // Game time
 
-    "pause_not_possible_during_night": Pauzapossible during night!", 
-    "pause_not_possible_before_base": "Pause is not available before your base was placed!",
+    "pause_not_possible_during_night": Pauza nie jest możliwa w nocy!!", 
+    "pause_not_possible_before_base": "Pauza nie jest możliwa przed postawieniu bazy!",
 
-    "fastforward_disabled_while_boss": "Fast forward is disabled while the boss is alive!",
-    "fastforward_not_possible_before_base": "Fast forward is not available before your base was placed!",
+    "fastforward_disabled_while_boss": "Przyspieszane jest wyłączony gdy boss żyje!",
+    "fastforward_not_possible_before_base": "Przyszpieszanie nie jest możliwe przed postawienu bazy!",
 
-    "pause_game": "Pause Game",
-    "pause_game_desc": "This pauses the game",
+    "pause_game": "Pauza gry",
+    "pause_game_desc": "To pauzuje gre",
 
-    "regular_speed": "Regular Speed",
-    "regular_speed_desc": "This plays the game at regular speed",
+    "regular_speed": "Normalna szybkość",
+    "regular_speed_desc": "To zmiena szybkość gry na normalną",
 
-    "fast_forward": "Fast Forward",
-    "fast_forward_desc": "This fast forwards the game",
+    "fast_forward": "Przyszpieszanie",
+    "fast_forward_desc": "To przyszpiesza gre",
 
     // Menu buttons
 
-    "keyboard_shortcuts": "Keyboard Shortcuts",
+    "keyboard_shortcuts": "Skróty Klawiszowe",
     "keyboard_shortcuts_desc": "Show the keyboard shortcut dialog",
 
     "restart_game": "Restart Game",
