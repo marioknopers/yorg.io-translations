@@ -12,6 +12,7 @@ This repository contains the official translations for yorg.io.
 | cn | Simplified Chinese      |  not started |
 | pt | Portuguese      |  not started |
 | ru | Russian      |  not started |
+| es | Spanish      |  not started |
 
 
 ## Contributing
