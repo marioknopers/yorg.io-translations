@@ -20,20 +20,20 @@ export const TRANSLATIONS_PL = {
     "featured_youtuber": "Popularne YT",
 
     "thirdparty_hint_header": "Pomysl o graniu bezpośredniu na YORG.io.
-    "thirdparty_hint": "Ty terazthirdparty site. Consider playing on YORG.io directly for an improved experience! <b>Click here</b> to visit YORG.io",
+    "thirdparty_hint": "Ty teraz graż na obcej stronie. Pomyśl o granie bezpośredniu na YORG.io dla ulepszone granie! <b>Kliknij tutaj</b> żeby odwiedzić YORG.io.",
 
-    "adblock_hint_header": "Please disable your adblocker",
-    "adblock_hint": "YORG.io is free to play, but please consider disabling your adblocker to support us! <b>Click here</b> to find out how to disable it.",
+    "adblock_hint_header": "Prosze wyłącz swój adblocker",
+    "adblock_hint": "YORG.io jest darmowe do grania, ale prosze pomyśł o wyłączeniu swój adblocker żeby pomuc nam! <b>Kliknij tutaj</b> żeby dowiedzieć się jak to wyłączyć.",
 
-    "changelog": "Changelog",
-    "view_full_changelog": "View full changelog",
+    "changelog": "Dziennik Zmian",
+    "view_full_changelog": "Zobacz pełny dziennik zmian",
 
-    "footer_licenses_partners": "Licenses & Partners",
-    "footer_more_io_games": "More .io Games",
-    "footer_press_kit": "Press Kit",
+    "footer_licenses_partners": "Licensja & Partnerzy",
+    "footer_more_io_games": "Więcej .io Gry",
+    "footer_press_kit": "Kit Logo",
     "footer_imprint": "Imprint",
-    "cookie_hint": `This website uses cookies to ensure you get the best experience
-        on our website. <a href='https://cookiesandyou.com/' target='_blank'>Learn more</a>`,
+    "cookie_hint": `Ta strona używa ciastka żeby zapewnić ty dostaniesz najlepsze granie
+        na naszej stronie. <a href='https://cookiesandyou.com/' target='_blank'>Ucz się więcej</a>`,
 
     "disable_adblock_title": "How to: Disabling adblock",
     "disable_adblock_instructions": `
@@ -54,45 +54,45 @@ export const TRANSLATIONS_PL = {
         Thank you for supporting us!
     `,
 
-    "report_bug_button": "Rebort Bug or Suggestion",
-    "report_bug_title": "Found a Bug or Suggestion?",
+    "report_bug_button": "Zgłoś Bug albo Sugestie",
+    "report_bug_title": "Znalezłeś Bug albo sugestie?",
     "rebort_bug_inner": `
-        If you think you found a bug, or you have ideas for improvements, there are several possibilities:<br /><br />
+        Jak myślisz ty znalezłeś bug, albo masz pomysły na ulepszenia, są kilka możliwości:<br /><br />
         <ul>
-            <li>Join the official <a href="<%= htmlWebpackPlugin.options.env.discordLink %>" target="_blank">Discord</a></li>
-            <li>Visit the <a href="https://www.reddit.com/r/yorgio/" target="_blank">YORG.io subreddit</a></li>
-            <li>Write an email to <a href="mailto:feedback@yorg.io">feedback@yorg.io</a></li>
+            <li>Dołącz officialny Discord! <a href="<%= htmlWebpackPlugin.options.env.discordLink %>" target="_blank">Discord</a></li>
+            <li>Odwiedż <a href="https://www.reddit.com/r/yorgio/" target="_blank">YORG.io subreddit</a></li>
+            <li>Napisz email do <a href="mailto:feedback@yorg.io">feedback@yorg.io</a></li>
         </ul>
         <br />
-        When a reporting a bug, please <b>include the console output</b>. You can get it by pressing F12 and selecting the <i>Console</i> tab.
+        Jak chcesz zgłośić bug, prosze <b>mieć otwartą konsole</b>. Ty możesz dostać ją by przycisnąc F12 i wybrać <i>Console</i> tab.
     `,
 
-    "close_dialog": "Close",
+    "close_dialog": "Zamknij",
 
     // Restart dialog
-    "restart_game_confirm": "Are you sure you want to restart the game? This will make you <b>lose all of your progress!</b>",
-    "restart_game_button": "Restart",
-    "restart_continue_playing": "Continue Playing",
+    "restart_game_confirm": "Czy jesteś pewny ty chcesz zrestartować gre? Jak zrestartujesz, ty <b>stracisz swój postęp w grze!</b>",
+    "restart_game_button": "Zrestartuj",
+    "restart_continue_playing": "Graj Dalej",
 
     // Ingame
 
     // Visualizers
-    "crystals_per_sec": "Crystals per sec",
+    "crystals_per_sec": "Kryształy na sekunde",
 
-    "cannon": "Cannon",
-    "arrow": "Arrow",
-    "lightning": "Lightning",
+    "cannon": "Armata",
+    "arrow": "Strzała",
+    "lightning": "Błyskawica",
 
-    "iron": "Iron",
-    "wood": "Wood",
-    "uranium": "Uranium",
-    "steel": "Steel",
-    "trunks": "Trunks",
-    "power": "Power",
+    "iron": "Żelazo",
+    "wood": "Drewno",
+    "uranium": "Uran",
+    "steel": "Stal",
+    "trunks": "Pnie Drzew",
+    "power": "Energia",
 
     // Game time
 
-    "pause_not_possible_during_night": "Pause is not possible during night!",
+    "pause_not_possible_during_night": Pauzapossible during night!", 
     "pause_not_possible_before_base": "Pause is not available before your base was placed!",
 
     "fastforward_disabled_while_boss": "Fast forward is disabled while the boss is alive!",
