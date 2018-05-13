@@ -110,72 +110,72 @@ export const TRANSLATIONS_PL = {
     // Menu buttons
 
     "keyboard_shortcuts": "Skróty Klawiszowe",
-    "keyboard_shortcuts_desc": "Show the keyboard shortcut dialog",
+    "keyboard_shortcuts_desc": "Pokaż dialog skrótów klawiszowych",
 
-    "restart_game": "Restart Game",
-    "restart_game_desc": "Allows you to restart the game",
+    "restart_game": "Zrestartuj gre",
+    "restart_game_desc": "Pozwala ciebe do zrestartowania gry",
 
-    "toggle_fullscreen": "Toggle Fullscreen",
-    "toggle_fullscreen_desc": "Allows to toggle fullscreen, does not work on all pages!",
+    "toggle_fullscreen": "Przełącz Pełny Ekran",
+    "toggle_fullscreen_desc": "Pozwala przełączyć pełny ekran, nie działa na wszystkich stronach!",
 
     // Views
 
-    "defense_view": "Tower Range View",
-    "defense_view_desc": "Showing the range of all defensive towers",
+    "defense_view": "Widok zakresu wież",
+    "defense_view_desc": "Pokazuje zasięg wszystkich wież obronnych",
 
-    "transport_view": "Transport Network",
-    "transport_view_desc": "Showing resource transport ways. Mouseover a building to see its transport ways.",
+    "transport_view": "Sieć transportowa",
+    "transport_view_desc": "Pokazuje prejścia transport surowców. Połuż myszka na budynek żeby zobaczyć jego przejścia transportu.",
 
-    "processor_usage_view": "Utilization View",
-    "processor_usage_view_desc": "Showing the current utilization of all your factories. Green indicates that the production is at full capacity, yellow or red means that the production is not running at full speed.",
+    "processor_usage_view": "Widok Wykorzystania",
+    "processor_usage_view_desc": "Pokazuje aktualne wykorzystanie wszystkich twoich fabryk. Kolor zielony oznacza, że produkcja jest pełna, kolor żółty lub czerwony oznacza, że produkcja nie przebiega z pełną prędkością.",
 
     // Buildings bar
 
-    "prefix_hotkey": "Hotkey: ",
-    "no_cost": "no cost",
+    "prefix_hotkey": "Klawisz Skrótu: ",
+    "no_cost": "bez kosztu",
 
     // Building tooltip
-    "level": "Level",
+    "level": "Poziom",
 
-    "stat_health": "Health",
-    "stat_damage": "Damage",
-    "stat_throughput": "Produce /s",
-    "stat_radius": "Radius",
-    "stat_outcome": "Amount",
-    "stat_transportSpeed": "Speed",
-    "stat_spread": "Spread",
-    "stat_shootsPerSecond": "Fire rate",
-    "stat_storage": "Storage",
-    "stat_consumeAmount": "Consumes",
+    "stat_health": "Życie",
+    "stat_damage": "Obrażenia",
+    "stat_throughput": "Produkuje /sek",
+    "stat_radius": "Zasięg",
+    "stat_outcome": "Ilość",
+    "stat_transportSpeed": "Szybkość",
+    "stat_spread": "Rozpiętość",
+    "stat_shootsPerSecond": "Szybkość Strzelania",
+    "stat_storage": "Przechowywania",
+    "stat_consumeAmount": "Żużyje",
 
-    "can_not_sell_building": "You can not sell this building",
+    "can_not_sell_building": "Nie możesz sprzedać ten budynek",
 
-    "sell_for": "Sell for",
+    "sell_for": "Sprzedać za",
 
-    "upgrade": "Upgrade",
-    "upgrade_all": "Upgrade all",
+    "upgrade": "Ulepsz",
+    "upgrade_all": "Ulepsz Wszystkie",
 
     "max_out": "Max out",
-    "max_out_all": "Max out all",
+    "max_out_all": "Max out wszystkie",
 
-    "upgrade_base_to_upgrade_building": "Upgrade your Base to upgrade this building!",
-    "no_further_upgrades": "No further upgrade possible!",
+    "upgrade_base_to_upgrade_building": "Ulepsz swoją baze żeby ulepszyć ten budynek!",
+    "no_further_upgrades": "Nie da sie więcej ulepszyć!",
 
     // Buildings
-    "building_wall": "Wall",
-    "building_wall_desc": "Protects your base from zombies by blocking their movement",
+    "building_wall": "Ściana",
+    "building_wall_desc": "Chroni twoją bazę przed zombie, blokując ich ruch",
 
-    "building_arrowFactory": "Arrow Factory",
-    "building_arrowFactory_desc": "Produces arrows out of steel and tree trunks",
+    "building_arrowFactory": "Fabryka strał",
+    "building_arrowFactory_desc": "Produkuje strzały od stalu i pni drzew",
 
-    "building_arrowTower": "Arrow Tower",
-    "building_arrowTower_desc": "Single target tower which shoots arrows at zombies",
+    "building_arrowTower": "Wieża Strzał",
+    "building_arrowTower_desc": "Wieża która ma pojedynczy cel która strzela strzały na zombie.",
 
-    "building_cannon": "Cannon",
-    "building_cannon_desc": "Shoots cannonballs which explode when hitting zombies",
+    "building_cannon": "Armata",
+    "building_cannon_desc": "Strzela kule armatnie, które wybuchają kiedy uderzają zombiaków",
 
-    "building_cannonballProducer": "Cannon Ball Factory",
-    "building_cannonballProducer_desc": "Produces cannon balls out of 2 unprocessed iron",
+    "building_cannonballProducer": "Fabryka Kul armatni",
+    "building_cannonballProducer_desc": "Produkuje kule armatnie z 2 nieużytych żelaza",
 
     "building_goldMine": "Crystal Mine",
     "building_goldMine_desc": "Extracts crystals from crystal orbs. Deliver them to your base",
