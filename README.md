@@ -2,6 +2,18 @@
 
 This repository contains the official translations for yorg.io.
 
+## Existing translations
+
+| Name        | Language           | Status  |
+| ------------- |:-------------:| -----:|
+| en      | English | complete |
+| de      | German      |  complete, needs review |
+| pl | Polish      |  not started |
+| cn | Simplified Chinese      |  not started |
+| pt | Portuguese      |  not started |
+| ru | Russian      |  not started |
+
+
 ## Contributing
 
 ### Fixing existing translations
