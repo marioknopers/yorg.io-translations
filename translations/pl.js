@@ -4,23 +4,23 @@ export const TRANSLATIONS_PL = {
 
     // Welcome screen
 
-    "welcome_introduction_header": "Introduction",
-    "welcome_introduction": "Welcome to yorg.io, a game about supply chains and defending your game against zombies! Your goal is to survive as long as possible. Can you beat your friends?",
+    "welcome_introduction_header": "Intro",
+    "welcome_introduction": "Witaj w yorg.io, gra o dostarczanie surowców i obraniać twoją gre od zombiaków! Twój cel jest żeby przetrwać aż długo jak można. Czy możesz pobić wynik twoich przyjaciół?",
 
-    "loading_game": "Loading Game ...",
-    "play_button": "PLAY",
-    "tutorial_button": "Tutorial",
+    "loading_game": "Ładowanie Gry . . .",
+    "play_button": "Graj",
+    "tutorial_button": "Szkolenie",
 
-    "playername_input_placeholder": "Nickname",
+    "playername_input_placeholder": "Twoja nazwa",
 
     "discord": "Discord",
     "reddit": "Reddit",
     "twitter": "Twitter",
-    "wiki": "Wiki",
-    "featured_youtuber": "Featured YT",
+    "wiki": "Wikipedia",
+    "featured_youtuber": "Popularne YT",
 
-    "thirdparty_hint_header": "Consider playing directly on YORG.io",
-    "thirdparty_hint": "You are playing on a thirdparty site. Consider playing on YORG.io directly for an improved experience! <b>Click here</b> to visit YORG.io",
+    "thirdparty_hint_header": "Pomysl o graniu bezpośredniu na YORG.io.
+    "thirdparty_hint": "Ty terazthirdparty site. Consider playing on YORG.io directly for an improved experience! <b>Click here</b> to visit YORG.io",
 
     "adblock_hint_header": "Please disable your adblocker",
     "adblock_hint": "YORG.io is free to play, but please consider disabling your adblocker to support us! <b>Click here</b> to find out how to disable it.",
